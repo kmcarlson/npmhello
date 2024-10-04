@@ -1,2 +1,0 @@
-# npmhello
-just4fun
